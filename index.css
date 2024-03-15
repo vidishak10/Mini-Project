@@ -1,0 +1,844 @@
+.frame-child {
+  height: 104px;
+  width: 1440px;
+  position: relative;
+  background-color: var(--color-white);
+  display: none;
+  max-width: 100%;
+}
+.ai-tool {
+  margin: 0;
+  height: 40px;
+  font-size: var(--font-size-21xl);
+  font-weight: 400;
+  font-family: var(--font-nico-moji);
+  display: inline-block;
+  white-space: nowrap;
+}
+.about,
+.ai-tool,
+.skin-health-a-z {
+  position: relative;
+  z-index: 1;
+}
+.skin-health-a-z {
+  white-space: nowrap;
+}
+.about-clinical-solution {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-base) 0 0;
+}
+.clinical-solution {
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.frame-a-i-t-o-o-l {
+  width: 530px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-base) 0 0;
+  box-sizing: border-box;
+  gap: 0 73px;
+  max-width: 100%;
+}
+.menu-1-icon,
+.sign-in1 {
+  position: relative;
+  z-index: 1;
+}
+.sign-in1 {
+  white-space: nowrap;
+}
+.menu-1-icon {
+  height: 41px;
+  width: 57px;
+  object-fit: cover;
+}
+.rectangle-parent,
+.sign-in {
+  display: flex;
+  flex-direction: row;
+}
+.sign-in {
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 27px;
+}
+.rectangle-parent {
+  align-self: stretch;
+  height: 142px;
+  background-color: var(--color-white);
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: var(--padding-16xl) 187px 10px 188px;
+  box-sizing: border-box;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-chau-philomene-one);
+}
+.artificial-intelligence,
+.identify-your-skin {
+  margin: 0;
+}
+.identify-your-skin-container {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.snap-a-photo {
+  position: relative;
+  z-index: 1;
+}
+.t-e-x-t-s-n-a-p-p-h-o-t-o {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-9xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-darker-grotesque);
+}
+.identify-your-skin-condition-w-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 17px 0;
+  max-width: 100%;
+}
+.frame-item {
+  height: 79px;
+  width: 313px;
+  position: relative;
+  border-radius: var(--br-64xl);
+  background-color: var(--color-deepskyblue);
+  display: none;
+}
+.get-started {
+  height: 35px;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-archivo-black);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  z-index: 1;
+}
+.rectangle-group {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xl);
+  background-color: var(--color-deepskyblue);
+  flex: 1;
+  border-radius: var(--br-64xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+  z-index: 1;
+}
+.rectangle-container:hover,
+.rectangle-group:hover {
+  background-color: var(--color-steelblue);
+}
+.g-r-o-u-p-s-t-a-r-t-e-d,
+.t-e-x-t-p-h-o-t-o-i-n-f-o {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.g-r-o-u-p-s-t-a-r-t-e-d {
+  width: 341px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-9xl);
+}
+.t-e-x-t-p-h-o-t-o-i-n-f-o {
+  flex-direction: column;
+  align-items: center;
+  padding: 0 var(--padding-xl) 36px;
+  gap: 28px 0;
+  flex-shrink: 0;
+}
+.city-right-clouds-5wv3x7uv-1-icon {
+  height: 507px;
+  width: 627px;
+  position: absolute;
+  margin: 0 !important;
+  top: -170px;
+  right: -176px;
+  object-fit: cover;
+}
+.city-1-icon,
+.mom-kid-zykcrjrf-icon {
+  height: 150px;
+  width: 673px;
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+}
+.mom-kid-zykcrjrf-icon {
+  height: 345px;
+  width: 374px;
+  z-index: 1;
+}
+.person-q-c-c-c-q-u-m-h {
+  width: 1256px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: -176px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.doctor-1-1 {
+  height: 345px;
+  width: 302px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.doctor-box,
+.momkid-z-y-k-c-r-j-r-f {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.doctor-box {
+  flex: 1;
+  padding: 0 0 64px;
+}
+.momkid-z-y-k-c-r-j-r-f {
+  width: 1088px;
+  padding: 0 var(--padding-xl);
+  position: relative;
+  flex-shrink: 0;
+}
+.person-qcccqumh-icon {
+  height: 123px;
+  width: 123px;
+  position: absolute;
+  margin: 0 !important;
+  right: 358px;
+  bottom: -4px;
+  object-fit: cover;
+  z-index: 1;
+}
+.a-dermatology-tool {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.conditions-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.clipboard-tx67piat-icon {
+  height: 143px;
+  width: 117px;
+  position: relative;
+  object-fit: cover;
+}
+.results {
+  position: relative;
+}
+.get-an-instant {
+  font-size: var(--font-size-mini);
+  font-family: var(--font-darker-grotesque);
+}
+.get-an-instant,
+.get-started1 {
+  position: relative;
+}
+.right-arrow-1-icon {
+  height: 20.3px;
+  width: 25px;
+  position: relative;
+  object-fit: cover;
+}
+.get-started-arrow,
+.get-started-parent,
+.personalized-results {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.get-started-parent {
+  flex-direction: row;
+  gap: var(--gap-10xs);
+  cursor: pointer;
+}
+.get-started-arrow,
+.personalized-results {
+  flex-direction: column;
+}
+.personalized-results {
+  gap: 23px 0;
+}
+.get-started-arrow {
+  padding: 0 0 12px;
+  box-sizing: border-box;
+  min-width: 286px;
+}
+.clipboard {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 0 32px;
+  max-width: 100%;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-chau-philomene-one);
+}
+.a-i-tool-frame,
+.identify-your-condition {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.a-i-tool-frame {
+  width: 865px;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 48px 0;
+}
+.identify-your-condition {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.personalized {
+  position: relative;
+}
+.your-results-are {
+  width: 329px;
+  position: relative;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-darker-grotesque);
+  text-align: left;
+  display: inline-block;
+}
+.get-started2 {
+  position: relative;
+}
+.right-arrow-2-icon {
+  height: 20.3px;
+  width: 25px;
+  position: relative;
+  object-fit: cover;
+}
+.get-started-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-10xs);
+  cursor: pointer;
+}
+.cityrightclouds,
+.privacy-zone {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.privacy-zone {
+  align-items: flex-start;
+  gap: 13px 0;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-chau-philomene-one);
+}
+.cityrightclouds {
+  flex: 1;
+  align-items: flex-end;
+  gap: 68px 0;
+}
+.results-section,
+.skin-health-a-i {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.results-section {
+  width: 909px;
+  justify-content: flex-start;
+  position: relative;
+}
+.skin-health-a-i {
+  width: 1112px;
+  justify-content: flex-end;
+  padding: 0 var(--padding-xl) var(--padding-10xs);
+  box-sizing: border-box;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-black-han-sans);
+}
+.background-54wcnyl3-1-icon {
+  height: calc(100% - 118px);
+  width: 1837px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  bottom: 118px;
+  left: -235px;
+  max-height: 100%;
+  object-fit: contain;
+}
+.lock-cz7kli2u-icon {
+  height: 115px;
+  width: 115px;
+  object-fit: cover;
+}
+.lock-cz7kli2u-icon,
+.privacy {
+  position: relative;
+  z-index: 1;
+}
+.everything-you-share {
+  width: 329px;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-darker-grotesque);
+  text-align: left;
+  display: inline-block;
+}
+.everything-you-share,
+.our-privacy-policy,
+.right-arrow-2-icon1 {
+  position: relative;
+  z-index: 1;
+}
+.right-arrow-2-icon1 {
+  height: 20.3px;
+  width: 25px;
+  object-fit: cover;
+  min-height: 20px;
+}
+.handwrist-icon,
+.privacy-policy-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 6px;
+}
+.privacy-policy-frame {
+  flex-direction: column;
+  gap: 15px 0;
+  min-width: 329px;
+  max-width: 100%;
+}
+.feature-slide1-g4nvuban-1-icon {
+  height: 541px;
+  width: 264px;
+  position: absolute;
+  margin: 0 !important;
+  top: -330px;
+  left: 234px;
+  object-fit: cover;
+  z-index: 1;
+}
+.get-started-group1 {
+  margin-left: -73px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 70px 185px 0 779px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 0 32px;
+  min-height: 480px;
+  max-width: 100%;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-chau-philomene-one);
+}
+.join-the-future {
+  margin: 0;
+  height: 50px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.embrace-the-benefits {
+  width: 638px;
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-darker-grotesque);
+  display: inline-block;
+}
+.header-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 32px;
+  box-sizing: border-box;
+  gap: 32px 0;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.hand-wrist-sh2gevhq-1-icon {
+  height: 251px;
+  width: 347px;
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+}
+.frame-inner {
+  height: 79px;
+  width: 313px;
+  position: relative;
+  border-radius: var(--br-64xl);
+  background-color: var(--color-deepskyblue);
+  display: none;
+}
+.start {
+  height: 35px;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-archivo-black);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  z-index: 1;
+}
+.rectangle-container {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xl);
+  background-color: var(--color-deepskyblue);
+  width: 313px;
+  border-radius: var(--br-64xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.hand-action {
+  height: 297px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 40px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.hand-phone-03-yucugbtp-1-icon {
+  height: 291px;
+  width: 308px;
+  position: relative;
+  object-fit: cover;
+}
+.background-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  max-width: 100%;
+  flex-shrink: 0;
+  gap: var(--gap-xl);
+}
+.skin-health-a-z-frame-child {
+  width: 1440px;
+  height: 253px;
+  position: relative;
+  background-color: var(--color-darkslateblue);
+  display: none;
+  max-width: 100%;
+}
+.ai-tool1 {
+  margin: 0;
+  height: 40px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.about1,
+.ai-tool1,
+.privacy1 {
+  position: relative;
+  z-index: 1;
+}
+.about-privacy,
+.featureslide {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.featureslide {
+  gap: 18px 0;
+}
+.about-privacy {
+  padding: var(--padding-10xs) 0 0;
+}
+.skin-health-a-z2 {
+  position: relative;
+  z-index: 1;
+}
+.skin-health-a-z1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 29px 0 0;
+}
+.clinical-solution1 {
+  position: relative;
+  z-index: 1;
+}
+.skin-health-a-z3 {
+  width: 189px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+}
+.terms {
+  position: relative;
+  z-index: 1;
+}
+.clinical-solution-frame,
+.terms-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.terms-frame {
+  flex: 1;
+  justify-content: space-between;
+  min-width: 437px;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-chau-philomene-one);
+}
+.clinical-solution-frame {
+  width: 948px;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0 77px;
+}
+.social-media-5995266-1280-1-icon {
+  width: 199px;
+  height: 49px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.main-desktop,
+.skin-health-a-z-frame {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  font-size: var(--font-size-21xl);
+}
+.skin-health-a-z-frame {
+  margin-top: -3px;
+  margin-bottom: -3px;
+  align-self: stretch;
+  background-color: var(--color-darkslateblue);
+  align-items: flex-start;
+  padding: var(--padding-16xl) 203px 27px;
+  box-sizing: border-box;
+  gap: 55px 0;
+  max-width: 100%;
+  flex-shrink: 0;
+  text-align: left;
+  color: var(--color-white);
+  font-family: var(--font-nico-moji);
+}
+.main-desktop {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  align-items: center;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--color-black);
+  font-family: var(--font-black-han-sans);
+}
+@media screen and (max-width: 1350px) {
+  .lock-cz7kli2u-icon,
+  .privacy-policy-frame {
+    flex: 1;
+  }
+  .get-started-group1 {
+    flex-wrap: wrap;
+  }
+  .skin-health-a-z-frame {
+    padding-left: var(--padding-82xl);
+    padding-right: var(--padding-82xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .frame-a-i-t-o-o-l {
+    display: none;
+  }
+  .cityrightclouds {
+    gap: 68px 0;
+  }
+  .background-frame {
+    flex-wrap: wrap;
+  }
+  .terms-frame {
+    min-width: 100%;
+  }
+  .clinical-solution-frame {
+    gap: 0 77px;
+  }
+}
+@media screen and (max-width: 800px) {
+  .frame-a-i-t-o-o-l {
+    gap: 0 73px;
+  }
+  .rectangle-parent {
+    padding-left: 94px;
+    padding-right: 93px;
+    box-sizing: border-box;
+  }
+  .a-dermatology-tool,
+  .identify-your-skin-container {
+    font-size: var(--font-size-13xl);
+  }
+  .get-started-group1 {
+    gap: 0 32px;
+    padding-left: 389px;
+    padding-right: 92px;
+    box-sizing: border-box;
+  }
+  .join-the-future {
+    font-size: var(--font-size-13xl);
+  }
+  .header-frame {
+    gap: 32px 0;
+  }
+  .start {
+    font-size: 26px;
+  }
+  .ai-tool1 {
+    font-size: var(--font-size-13xl);
+  }
+  .terms-frame {
+    flex-wrap: wrap;
+  }
+  .clinical-solution-frame {
+    gap: 0 77px;
+  }
+  .skin-health-a-z-frame {
+    gap: 55px 0;
+    padding-left: var(--padding-31xl);
+    padding-right: var(--padding-31xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .frame-a-i-t-o-o-l {
+    gap: 0 73px;
+  }
+  .rectangle-parent {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .identify-your-skin-container {
+    font-size: var(--font-size-5xl);
+  }
+  .snap-a-photo {
+    font-size: var(--font-size-base);
+  }
+  .doctor-box {
+    padding-bottom: 42px;
+    box-sizing: border-box;
+  }
+  .a-dermatology-tool {
+    font-size: var(--font-size-5xl);
+  }
+  .clipboard-tx67piat-icon,
+  .get-started-arrow {
+    flex: 1;
+  }
+  .clipboard {
+    flex-wrap: wrap;
+    gap: 0 32px;
+  }
+  .a-i-tool-frame {
+    gap: 48px 0;
+  }
+  .cityrightclouds {
+    gap: 68px 0;
+  }
+  .get-started-group1 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .join-the-future {
+    font-size: var(--font-size-5xl);
+  }
+  .embrace-the-benefits {
+    font-size: var(--font-size-base);
+  }
+  .start {
+    font-size: var(--font-size-lgi);
+  }
+  .ai-tool1 {
+    font-size: var(--font-size-5xl);
+  }
+  .about1,
+  .clinical-solution1,
+  .privacy1,
+  .skin-health-a-z2,
+  .terms {
+    font-size: var(--font-size-lgi);
+  }
+  .skin-health-a-z-frame {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
